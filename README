@@ -1,5 +1,6 @@
 if()(
 show
 rm
+ls
 )
 
