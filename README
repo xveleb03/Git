@@ -1,4 +1,5 @@
 if()(
-delete
+show
+rm
 )
 
